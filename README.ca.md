@@ -4,7 +4,7 @@ Pots llegir açò en altres llengues: [English](README.md), [Català](README.ca.
 ## Començament
 Aquest programa necessita la llibreria GMP abans de compilar.
 ### Instalar dependències
-En Debian GNU/Linux libgmp s'instala així
+En Debian GNU/Linux libgmp s'instal·la així
 ```
 apt install libgmp-dev
 ```
@@ -17,7 +17,7 @@ gcc -lgmp -W -Wall -Wextra -ansi -pedantic -std=c11 pi_gmp.c -o pi
 ```
 ./pi xifres
 ```
-On "xifres" és el nombre de decimals que es volen calcular. Si el nombre de decimals es major o igual que 10000 el resultat s'escriura en un fitxer, en cas contrari en l'eixida estandard.
+On "xifres" és el nombre de decimals que es volen calcular. Si el nombre de decimals es major o igual que 10000 el resultat s'escriura en un fitxer, en cas contrari en l'eixida estàndard.
 ### Exemple
 ```
 ./pi 100
