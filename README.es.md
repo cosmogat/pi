@@ -17,7 +17,7 @@ gcc -lgmp -W -Wall -Wextra -ansi -pedantic -std=c11 pi_gmp.c -o pi
 ```
 ./pi cifras
 ```
-Donde cifras es el número de decimales que se quieren calcular. Si el número es mayor o igual a 10000 el resultado se escribira en un fichero, en cas contrario en la salida estándar.
+Donde "cifras" es el número de decimales que se quieren calcular. Si el número es mayor o igual a 10000 el resultado se escribira en un fichero, en caso contrario en la salida estándar.
 ### Ejemplo
 ```
 ./pi 100
