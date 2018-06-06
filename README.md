@@ -28,7 +28,7 @@ Write on screen:
 ```
 ## References
 * [GMP](https://gmplib.org/) - GMP library.
-* [Algorisme de Chudnovsky](https://en.wikipedia.org/wiki/Chudnovsky_algorithm) - Chudnovsky's algorithm
+* [Chudnovsky](https://en.wikipedia.org/wiki/Chudnovsky_algorithm) - Chudnovsky's algorithm
 ## Autors
 * **Cosmo Cat**  [cosmogat](https://github.com/cosmogat)
 ## License
