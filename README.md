@@ -1,5 +1,5 @@
 # pi
-This is a simple program for compute the digits of pi number.
+This is a simple program to compute the digits of pi number.
 You can read this in other languages: [English](README.md), [Català](README.ca.md), [Castellà](README.es.md).
 ## Getting started
 This program needs GMP library before compile it.
