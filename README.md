@@ -29,6 +29,42 @@ Escriura per pantalla el següent:
 * [GMP](https://gmplib.org/) - La llibreria de precisió multiple utilitzada.
 * [Algorisme de Chudnovsky](https://en.wikipedia.org/wiki/Chudnovsky_algorithm) - L'algorisme de Chudnovsky
 ## Autors
-* **Cosmo Gat**  [cosmogat](https://github.com/cosmogat)
+* **Cosmo Cat**  [cosmogat](https://github.com/cosmogat)
 ## Llicència
 Mireu [LICENSE.md](LICENSE.md)
+
+
+# pi (english)
+This is a simple program for compute the digits of pi number.
+## Començament
+This program needs GMP library before compile it.
+### Instalar dependències
+In Debian GNU/Linux libgmp:
+```
+apt install libgmp-dev
+```
+### Compilar
+We can compile this code with:
+```
+gcc -lgmp -W -Wall -Wextra -ansi -pedantic -std=c11 pi_gmp.c -o pi
+```
+## Utilització
+```
+./pi digits
+```
+Where "digits" is the number of digits that we want to compute. If the number is major or equal than 10000 the result will be written in a file, in other case in the standard output.
+### Exemple
+```
+./pi 100
+```
+Write on screen:
+```
+3.141592653589793238462643383279502884197169399375105820974944592307816406286208998628034825342117068
+```
+## Referències
+* [GMP](https://gmplib.org/) - GMP library.
+* [Algorisme de Chudnovsky](https://en.wikipedia.org/wiki/Chudnovsky_algorithm) - Chudnovsky's algorithm
+## Autors
+* **Cosmo Cat**  [cosmogat](https://github.com/cosmogat)
+## Llicència
+See the [LICENSE.md](LICENSE.md)
