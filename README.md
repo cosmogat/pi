@@ -32,4 +32,4 @@ Write on screen:
 ## Autors
 * **Cosmo Cat**  [cosmogat](https://github.com/cosmogat)
 ## License
-See the [LICENSE.md](LICENSE.md)
+See the [LICENSE](LICENSE)
