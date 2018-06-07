@@ -32,4 +32,4 @@ Escriura per pantalla el següent:
 ## Autors
 * **Cosmo Cat**  [cosmogat](https://github.com/cosmogat)
 ## Llicència
-Mireu [LICENSE.md](LICENSE.md)
+Mireu [LICENSE](LICENSE)
