@@ -32,4 +32,4 @@ Escribira por pantalla:
 ## Autores
 * **Cosmo Cat**  [cosmogat](https://github.com/cosmogat)
 ## Licencia
-Mirad [LICENSE.md](LICENSE.md)
+Mirad [LICENSE](LICENSE)
